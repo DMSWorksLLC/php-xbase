@@ -1,5 +1,5 @@
 {
-    "name": "hisamu/php-xbase",
+    "name": "dmsworksllc/php-xbase",
     "type": "library",
     "description": "A simple parser for *.dbf, *.fpt files using PHP",
     "keywords": ["dbase", "dbf","foxpro"],
